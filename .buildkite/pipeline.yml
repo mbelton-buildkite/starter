@@ -11,6 +11,6 @@ steps:
   - label: ":rocket: Deploy"
     commands:
       - echo "Launch the rocket"
-      - cat annotation.md | buildkite-agent annotate --style "success"
+      - cat ./annotation.md | buildkite-agent annotate --style "success"
     key: deploy
     depends_on: test
