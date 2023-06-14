@@ -1,3 +1,3 @@
 ✨ **You've run a build!** ✨
 
-Continue learning and playing by using the docs to [create your own pipeline](https://buildkite.com/docs/pipelines/create-your-own).
+Next up, keep learning and playing by creating a pipeline for your code. See [the docs](https://buildkite.com/docs/pipelines/create-your-own) to learn more.
